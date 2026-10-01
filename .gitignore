@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.streamlit/secrets.toml
+.chroma/
+chroma_db/
+.uploaded/
+.DS_Store
+.idea/
+.vscode/
+*.log
