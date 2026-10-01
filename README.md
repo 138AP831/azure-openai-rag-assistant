@@ -10,7 +10,7 @@
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-embeddings_+_chat-0078D4?logo=microsoftazure&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-vector_store-F7931E)
 
-<img src="assets/architecture.svg" alt="Animated architecture diagram" width="100%"/>
+<img src="architecture.svg" alt="Animated architecture diagram" width="100%"/>
 
 </div>
 
