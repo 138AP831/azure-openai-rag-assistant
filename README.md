@@ -191,18 +191,7 @@ streamlit run app.py
 
 ---
 
-## Interview talking points
 
-<details>
-<summary><b>Design choices</b></summary>
-
-- Why RAG instead of fine-tuning: fresh data, no training cost, citations come for free
-- Why a vector database: fast approximate nearest-neighbour search over embeddings
-- How embeddings capture semantic similarity: nearby vectors mean related meaning, even without shared keywords
-- Why recursive chunking with overlap: keeps semantic units intact and avoids losing facts at chunk edges
-- How top-k trades recall against context size, cost and noise
-
-</details>
 
 <details>
 <summary><b>Performance and cost</b></summary>
